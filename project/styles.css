@@ -1,0 +1,39 @@
+h1 {
+    font-size: 60px;
+    font-family: Futura;
+    text-align: center;
+    vertical-align: middle;
+    color: #061b40;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    font-family: Futura;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.axes {
+    font-family: Futura;
+    font-size: 14px;
+}
+
+text {
+    font-family: Futura;
+}
+
+image {
+    border-radius: 50%;
+}
+
+.names {
+    font-size: 12px;
+    text-anchor: middle;
+}
+
+.title {
+    font-size: 18px;
+}
